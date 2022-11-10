@@ -1,0 +1,6 @@
+Chào đằng ấy, Đây là chương trình cân bằng phương trình hóa học do mình bỏ thời gian ra code cùng sự hỗ trợ từ 2 giáo viên hóa cấp II của mình
+Có kết hợp với một vài thuật toán tham khảo từ internet
+
+By Nguyen Phuc Nguyen ( Hayashi Kazuhiko ) from Ben Tre High School for Gifted Students 2022-2025
+
+Note: SOURCE CODE KHÔNG CÓ BẢN QUYỀN
